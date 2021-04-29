@@ -1,4 +1,4 @@
-# flappybird_pertama
+# FlappyBird_Pertama
 
 A new Flutter application.
 
